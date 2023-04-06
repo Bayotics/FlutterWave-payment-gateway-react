@@ -33,7 +33,7 @@ function App() {
   };
   return (
    <div className="App">
-     <h1>Hello Test user</h1>
+     <h1>Bayotics, studios Payment</h1>
       <FlutterWaveButton {...fwConfig} />
     </div>
   );
