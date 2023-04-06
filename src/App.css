@@ -6,6 +6,18 @@
   height: 40vmin;
   pointer-events: none;
 }
+.flutterWaveButton{
+    width: 15%;
+    background-color: #ff9b00;
+    border: none;
+    border-radius: 0.4rem;
+    text-align: center;
+    font-weight: 500;
+    color: #12122c;
+    font-size: 14px;
+    line-height: 1.4rem;
+    padding: 1.4rem 0;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
