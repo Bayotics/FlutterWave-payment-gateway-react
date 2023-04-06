@@ -34,6 +34,7 @@ function App() {
   return (
    <div className="App">
      <h1>Bayotics, studios Payment</h1>
+     <h2>Pay N100</h2>
       <FlutterWaveButton className='flutterWaveButton' {...fwConfig} />
     </div>
   );
